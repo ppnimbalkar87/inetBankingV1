@@ -30,17 +30,17 @@ public class TC_LoginDDT_002 extends BaseClass
 		{
 			driver.switchTo().alert().accept();//close alert
 			driver.switchTo().defaultContent();
-			Assert.assertTrue(false);
-			logger.warn("Login failed");
+			Assert.assertTrue(true);
+			logger.warn("Login failed with Invalid Credentials, Testcase Passed");
 		}
 		else
 		{
-			Assert.assertTrue(true);
-			logger.info("Login passed");
+			logger.info("Login with Invalid Credentials,Testcase failed");
 			lp.clickLogout();
 			Thread.sleep(3000);
 			driver.switchTo().alert().accept();//close logout alert
 			driver.switchTo().defaultContent();
+			Assert.assertTrue(false);
 			
 		}
 		
