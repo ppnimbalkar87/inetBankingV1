@@ -239,3 +239,45 @@
 2021-02-27 11:08:35,163 - ebanking -INFO - Providing Customer ID
 2021-02-27 11:08:38,764 - ebanking -INFO - Validation Started..........
 2021-02-27 11:08:39,824 - ebanking -INFO - test case Passed....
+2021-02-27 23:12:37,764 - ebanking -INFO - User name is provided
+2021-02-27 23:12:38,119 - ebanking -INFO - Passsword is provided
+2021-02-27 23:12:45,638 - ebanking -INFO - Providing Account No.........
+2021-02-27 23:12:49,413 - ebanking -INFO - Validation started.............
+2021-02-27 23:12:50,823 - ebanking -INFO - test case Passed....
+2021-02-27 23:15:26,337 - ebanking -INFO - URL is opened
+2021-02-27 23:15:26,550 - ebanking -INFO - Entered username
+2021-02-27 23:15:26,694 - ebanking -INFO - Entered password
+2021-02-27 23:15:28,609 - ebanking -INFO - Login test passed
+2021-02-27 23:15:44,955 - ebanking -INFO - user name provided
+2021-02-27 23:15:45,078 - ebanking -INFO - password provided
+2021-02-27 23:15:51,373 - ebanking -INFO - user name provided
+2021-02-27 23:15:51,589 - ebanking -INFO - password provided
+2021-02-27 23:15:57,507 - ebanking -INFO - user name provided
+2021-02-27 23:15:57,658 - ebanking -INFO - password provided
+2021-02-27 23:16:19,175 - ebanking -INFO - User name is provided
+2021-02-27 23:16:19,311 - ebanking -INFO - Passsword is provided
+2021-02-27 23:16:26,763 - ebanking -INFO - providing customer details....
+2021-02-27 23:16:39,576 - ebanking -INFO - validation started....
+2021-02-27 23:16:39,606 - ebanking -INFO - test case passed....
+2021-02-27 23:16:54,058 - ebanking -INFO - User name is provided
+2021-02-27 23:16:54,197 - ebanking -INFO - Passsword is provided
+2021-02-27 23:17:02,343 - ebanking -INFO - Providing Customer ID
+2021-02-27 23:17:06,189 - ebanking -INFO - Validation Started..........
+2021-02-27 23:17:07,281 - ebanking -INFO - test case Passed....
+2021-02-27 23:17:22,909 - ebanking -INFO - User name is provided
+2021-02-27 23:17:23,044 - ebanking -INFO - Passsword is provided
+2021-02-27 23:17:30,693 - ebanking -INFO - Providing Account No.........
+2021-02-27 23:17:34,536 - ebanking -INFO - Validation started.............
+2021-02-27 23:17:35,554 - ebanking -INFO - test case Passed....
+2021-02-27 23:25:01,832 - ebanking -INFO - user name provided
+2021-02-27 23:25:01,992 - ebanking -INFO - password provided
+2021-02-27 23:25:07,763 - ebanking -WARN - Login failed with Invalid Credentials, Testcase Passed
+2021-02-27 23:25:08,052 - ebanking -INFO - user name provided
+2021-02-27 23:25:08,230 - ebanking -INFO - password provided
+2021-02-27 23:25:13,489 - ebanking -WARN - Login failed with Invalid Credentials, Testcase Passed
+2021-02-27 23:25:13,810 - ebanking -INFO - user name provided
+2021-02-27 23:25:14,007 - ebanking -INFO - password provided
+2021-02-27 23:25:19,336 - ebanking -WARN - Login failed with Invalid Credentials, Testcase Passed
+2021-02-27 23:25:19,615 - ebanking -INFO - user name provided
+2021-02-27 23:25:19,810 - ebanking -INFO - password provided
+2021-02-27 23:25:24,455 - ebanking -INFO - Login with Invalid Credentials,Testcase failed
